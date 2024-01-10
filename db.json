@@ -1,1 +1,8 @@
 
+[
+    { id: 1, name: 'Basic', features: ['Identify Verification (Aadhaar ID)', 'Educational Background Check', 'Address Verification'] },
+    {
+      id: 2, name: 'Healthcare +', features: ['Identify Verification (Aadhaar ID)', 'Registration and Licensing Verification', 'Registration and Licensing Verification'
+        , 'Criminal Background Check']
+    },
+  ]
